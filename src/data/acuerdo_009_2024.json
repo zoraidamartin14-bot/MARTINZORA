@@ -1,0 +1,230 @@
+{
+  "titulo": "ACUERDO 009 DE 2024",
+  "fecha": "2024-11-05",
+  "entidad": "SERVICIO NACIONAL DE APRENDIZAJE - SENA",
+  "descripcion": "Por medio del cual se adopta el Reglamento del Aprendiz SENA y se derogan los Acuerdos 07 de 2012, 02 de 2014, 06 de 2023 y 02 de 2024",
+  "diarioOficial": "No. 52.947 de 21 de noviembre de 2024",
+  "vigencia": "Modificado por el Acuerdo 002 de 10 de marzo de 2026 (Art. 48)",
+  "capitulos": [
+    {
+      "capitulo": "CAPÍTULO I",
+      "nombre": "DEFINICIONES, ALCANCE Y PRINCIPIOS",
+      "articulos": [
+        {
+          "articulo": "Artículo 1",
+          "nombre": "Definiciones",
+          "contenido": "Para todos los efectos del presente reglamento se tendrán en cuenta las siguientes definiciones:",
+          "items": [
+            {
+              "numeral": "1",
+              "concepto": "Formación profesional integral",
+              "definicion": "Proceso educativo teórico-práctico de carácter integral, orientado al desarrollo de conocimientos técnicos, tecnológicos, humanistas y al desarrollo de actitudes, valores y habilidades socioemocionales para el crecimiento personal y la convivencia social."
+            },
+            {
+              "numeral": "2",
+              "concepto": "Comunidad educativa SENA",
+              "definicion": "Integrada por aprendices, instructores, personal administrativo y de apoyo, directivos, familias/acudientes, egresados, empresarios, representantes de trabajadores, economías populares, campesinas, LGBTIQ+, negritudes, indígenas, personas con discapacidad y víctimas."
+            },
+            {
+              "numeral": "3",
+              "concepto": "Aspirante",
+              "definicion": "Toda persona que se encuentra participando del proceso de ingreso para matricularse en un programa de formación."
+            },
+            {
+              "numeral": "4",
+              "concepto": "Aprendiz",
+              "definicion": "Persona matriculada en los programas de formación profesional del SENA en sus diferentes modalidades."
+            },
+            {
+              "numeral": "5",
+              "concepto": "Grupo",
+              "definicion": "Conjunto de aprendices matriculados en un determinado Centro de Formación, programa, jornada, con fecha de inicio y fin definida (ficha)."
+            }
+          ]
+        },
+        {
+          "articulo": "Artículo 2",
+          "nombre": "Alcance del reglamento",
+          "contenido": "Aplica para el aspirante en lo referente al proceso de ingreso y para el aprendiz del SENA durante todo su proceso formativo y certificación, en todas las sedes, jornadas, niveles, modalidades y tipos de formación."
+        },
+        {
+          "articulo": "Artículo 3",
+          "nombre": "Principios orientadores",
+          "contenido": "Fundamentados en la Constitución Política de Colombia:",
+          "items": [
+            {"numeral": "1", "concepto": "Autonomía", "definicion": "Reconocidos como agentes corresponsables de su proceso formativo."},
+            {"numeral": "2", "concepto": "Dignidad", "definicion": "Derecho a una vida digna y segura."},
+            {"numeral": "3", "concepto": "Inclusión", "definicion": "Garantizar igualdad de oportunidades sin distingos de credo, etnia, género u origen."},
+            {"numeral": "4", "concepto": "Enfoque diferencial", "definicion": "Atención según características particulares de edad, género, etnia o discapacidad."},
+            {"numeral": "5", "concepto": "Enfoque territorial", "definicion": "Potenciar capacidades locales y productividad regional."},
+            {"numeral": "6", "concepto": "Participación", "definicion": "Intervención individual y colectiva de los aprendices."},
+            {"numeral": "7", "concepto": "Desarrollo sostenible", "definicion": "Sostenibilidad ambiental, conciencia ecológica y bajas emisiones."},
+            {"numeral": "8", "concepto": "Solidaridad", "definicion": "Especial atención a personas y comunidades vulnerables o campesinas."}
+          ]
+        },
+        {
+          "articulo": "Artículo 4",
+          "nombre": "Centro de Convivencia",
+          "contenido": "Atención complementaria del proceso formativo que brinda alojamiento y alimentación para aprendices seleccionados."
+        }
+      ]
+    },
+    {
+      "capitulo": "CAPÍTULO II",
+      "nombre": "DERECHOS DEL APRENDIZ SENA",
+      "articulos": [
+        {
+          "articulo": "Artículo 5",
+          "nombre": "Derechos del Aprendiz SENA",
+          "contenido": "Son derechos del aprendiz SENA los siguientes (24 numerales):",
+          "items": [
+            {"numeral": "1", "definicion": "Recibir inducción integral que le permita conocer el reglamento, bienestar al aprendiz y organización."},
+            {"numeral": "2", "definicion": "Recibir formación profesional integral de calidad con talento humano, insumos y recursos físicos y tecnológicos adecuados."},
+            {"numeral": "3", "definicion": "Ser acreditado mediante carné o constancia como aprendiz SENA ante dependencias internas y externas."},
+            {"numeral": "4", "definicion": "Tener a disposición la infraestructura, talleres, laboratorios, ambientes virtuales y bibliotecas requeridos."},
+            {"numeral": "5", "definicion": "Recibir oportunamente los elementos de protección personal (EPP) requeridos para las prácticas formativas."},
+            {"numeral": "6", "definicion": "Disfrutar de los programas del Plan Nacional Integral de Bienestar al Aprendiz (salud, deporte, cultura, apoyos)."},
+            {"numeral": "7", "definicion": "Recibir orientación humanista, ocupacional e integral para su desarrollo personal y perfil profesional."},
+            {"numeral": "8", "definicion": "Ser reconocido e incluido en condición de discapacidad con los ajustes razonables requeridos."},
+            {"numeral": "9", "definicion": "Ser reconocido en grupos poblacionales de especial protección con enfoque de vulnerabilidad."},
+            {"numeral": "10", "definicion": "Garantía del debido proceso y derecho a la defensa en investigaciones o procedimientos disciplinarios."},
+            {"numeral": "11", "definicion": "Ser notificado oportunamente de las novedades académicas, administrativas o disciplinarias."},
+            {"numeral": "12", "definicion": "Ser escuchado y atendido en peticiones respetuosas por directivos, instructores y funcionarios."},
+            {"numeral": "13", "definicion": "Recibir asesoría para activar rutas de atención ante violencia, acoso sexual, discriminación o maltrato (Protocolo Ley 2365 de 2024)."},
+            {"numeral": "14", "definicion": "Participar activamente en procesos de autoevaluación institucional y contar con instructores idóneos."},
+            {"numeral": "15", "definicion": "Ser evaluado objetiva e integralmente y conocer las calificaciones en un plazo máximo de 8 días hábiles."},
+            {"numeral": "16", "definicion": "Solicitar revisión respetuosa de evaluaciones si considera falta de objetividad dentro de los 2 días hábiles posteriores."},
+            {"numeral": "17", "definicion": "Recibir orientación y acompañamiento sobre las alternativas para el desarrollo de la etapa productiva."},
+            {"numeral": "18", "definicion": "Recibir trato digno, respetuoso, igualitario y justo por toda la comunidad educativa."},
+            {"numeral": "19", "definicion": "Expresar con libertad sus ideas y pensamiento en el marco del respeto."},
+            {"numeral": "20", "definicion": "Postularse o participar en estrategias de fortalecimiento del ser integral que proponga el SENA."},
+            {"numeral": "21", "definicion": "Elegir y ser elegido democráticamente como representante de aprendices o vocero de ficha/poblacional."},
+            {"numeral": "22", "definicion": "Presentar evaluaciones extemporáneas cuando cuente con la debida justificación de inasistencia en los términos legales."},
+            {"numeral": "23", "definicion": "Acompañamiento institucional para la selección de la modalidad de etapa productiva."},
+            {"numeral": "24", "definicion": "Obtener el título o certificación cuando apruebe todos los resultados de aprendizaje y requisitos."}
+          ]
+        },
+        {
+          "articulo": "Artículo 6",
+          "nombre": "Reconocimientos Formativos",
+          "contenido": "Menciones de honor, representación institucional en eventos, monitorías y prácticas destacadas."
+        },
+        {
+          "articulo": "Artículo 7",
+          "nombre": "Representatividad de los Aprendices",
+          "contenido": "Elección de representantes por jornada/modalidad y voceros de grupo y de enfoque diferencial en septiembre de cada año."
+        }
+      ]
+    },
+    {
+      "capitulo": "CAPÍTULO III",
+      "nombre": "DEBERES Y PROHIBICIONES DEL APRENDIZ SENA",
+      "articulos": [
+        {
+          "articulo": "Artículo 8",
+          "nombre": "Deberes del Aprendiz SENA",
+          "contenido": "Obligaciones académicas, disciplinarias y administrativas (24 numerales):",
+          "items": [
+            {"numeral": "1", "definicion": "Suscribir el acta de compromiso como aprendiz SENA al asentar la matrícula."},
+            {"numeral": "2", "definicion": "Conocer y cumplir el reglamento del aprendiz y normas institucionales asociadas."},
+            {"numeral": "3", "definicion": "Actuar siempre teniendo como base los principios y valores institucionales del SENA."},
+            {"numeral": "4", "definicion": "Registrar y mantener actualizados sus datos personales en Sofía Plus, APE y sistemas institucionales."},
+            {"numeral": "5", "definicion": "Asistir con puntualidad a todas las actividades programadas en su proceso formativo (asistencia mínima del 80%)."},
+            {"numeral": "6", "definicion": "Cumplir con la entrega oportuna de evidencias de aprendizaje en los plazos fijados por la guía pedagógica."},
+            {"numeral": "7", "definicion": "Justificar debidamente las inasistencias o incumplimientos dentro de los 5 días hábiles siguientes a su ocurrencia."},
+            {"numeral": "8", "definicion": "Reportar e informar oportunamente ante el instructor o coordinador situaciones que afecten la formación."},
+            {"numeral": "9", "definicion": "Cumplir directrices para salidas de campo, pasantías técnicas, visitas o intercambios lúdico-pedagógicos."},
+            {"numeral": "10", "definicion": "Gestionar novedades (traslados, aplazamientos, retiros, reintegros) siguiendo los procedimientos establecidos."},
+            {"numeral": "11", "definicion": "Hacer uso adecuado de la infraestructura, maquinaria, herramientas, laboratorios y equipos sin causar daño o patrimonio detriment."},
+            {"numeral": "12", "definicion": "Respetar los derechos de autor y propiedad intelectual en todos los trabajos y proyectos entregados."},
+            {"numeral": "13", "definicion": "Realizar personalmente las evaluaciones y evidencias haciendo uso de su autoría y esfuerzo propio."},
+            {"numeral": "14", "definicion": "Proteger y velar por la conservación de recursos culturales, físicos, ambientales y digitales del SENA."},
+            {"numeral": "15", "definicion": "Usar obligatoriamente y velar por los elementos de protección personal (EPP) e higiene y seguridad en el trabajo (SST)."},
+            {"numeral": "16", "definicion": "Acatar los protocolos de bioseguridad e ingreso a instalaciones fijadas por la entidad."},
+            {"numeral": "17", "definicion": "Acatar las normas para la etapa productiva seleccionando oportunamente la alternativa y entregando los informes."},
+            {"numeral": "18", "definicion": "Informar inmediatamente al Centro de Formación si logra consecución directa de contrato de aprendizaje."},
+            {"numeral": "19", "definicion": "Portar carné o medios de identificación institucionales obligatorios al ingresar a sedes SENA."},
+            {"numeral": "20", "definicion": "Portar el uniforme distintivo o prendas de trabajo correspondientes a la especialidad sin exigir marcas específicas."},
+            {"numeral": "21", "definicion": "Ingresar debidamente identificado a las plataformas virtuales con sus credenciales personales e intransferibles."},
+            {"numeral": "22", "definicion": "Informar situaciones de afectación de salud que pongan en riesgo su integridad o la de la comunidad."},
+            {"numeral": "23", "definicion": "Entregar documentación verídica en los trámites de matrícula, subsidios o certificación."},
+            {"numeral": "24", "definicion": "Reportar condición de discapacidad y participar activamente con familiares/cuidadores en su proceso."}
+          ]
+        },
+        {
+          "articulo": "Artículo 9",
+          "nombre": "Prohibiciones para los Aprendices SENA",
+          "contenido": "Conductas expresamente prohibidas (14 numerales):",
+          "items": [
+            {"numeral": "1", "definicion": "Aportar documentos o información falsa en los sistemas del SENA para matrícula, beneficio o certificación."},
+            {"numeral": "2", "definicion": "Suplantar la identidad de personas en cualquier trámite académico o administrativo."},
+            {"numeral": "3", "definicion": "Alterar, falsificar, adulterar o sustraer documentos públicos o privados del SENA."},
+            {"numeral": "4", "definicion": "Plagiar materiales, evidencias, trabajos de investigación o proyectos elaborados por terceros."},
+            {"numeral": "5", "definicion": "Utilizar redes, internet o TICs institucionales para enviar información confidencial, pornografía, violencia, insultos o ciberacoso."},
+            {"numeral": "6", "definicion": "Ingresar, ingerir, comercializar o suministrar bebidas alcohólicas o sustancias psicoactivas en sedes físicas o virtuales."},
+            {"numeral": "7", "definicion": "Ingresar o portar armas de fuego, cortopunzantes, explosivos u objetos peligrosos en instalaciones del SENA."},
+            {"numeral": "8", "definicion": "Utilizar el nombre o instalaciones del SENA para actividades particulares con o sin ánimo de lucro ajenas a la formación."},
+            {"numeral": "9", "definicion": "Cometer, ser cómplice o copartícipe de delitos dentro de la comunidad educativa o la institución."},
+            {"numeral": "10", "definicion": "Destruir, dañar, vandalizar o sustraer infraestructura, equipos, software o dotación del SENA."},
+            {"numeral": "11", "definicion": "Realizar proselitismo político o religioso al interior de las instalaciones y ambientes formativos."},
+            {"numeral": "12", "definicion": "Ingresar o salir del Centro por lugares no autorizados (saltando muros, cercas o violentando cerraduras)."},
+            {"numeral": "13", "definicion": "Grafitar, rallar o vandalizar mobiliario, o publicar avisos/carteles de acoso, bullying o hostigamiento."},
+            {"numeral": "14", "definicion": "Discriminar a cualquier persona por razones de sexo, raza, etnia, religión, género, orientación sexual, discapacidad o política."}
+          ]
+        }
+      ]
+    },
+    {
+      "capitulo": "CAPÍTULO IV",
+      "nombre": "INGRESO, PERMANENCIA, NOVEDADES Y DESERCIÓN",
+      "articulos": [
+        {
+          "articulo": "Artículo 10 a 15",
+          "nombre": "Ingreso, Registro, Inscripción, Selección y Matrícula",
+          "contenido": "Etapas obligatorias de ingreso. Edad mínima 14 años. Consentimiento informado para menores. Requisitos de bachiller para tecnólogos."
+        },
+        {
+          "articulo": "Artículo 18",
+          "nombre": "Novedades durante la formación",
+          "contenido": "Traslado (mismo programa/red/otra sede), Aplazamiento (hasta 3 meses por incapacidad >= 20 días, maternidad, calamidad, servicio militar), Reintegro, Retiro voluntario."
+        },
+        {
+          "articulo": "Artículo 30",
+          "nombre": "Deserción",
+          "contenido": "Se configura en 3 causales principales:",
+          "items": [
+            {"numeral": "1", "definicion": "Inasistencia injustificada durante 3 días consecutivos o 5 días acumulados no continuos en formación presencial."},
+            {"numeral": "2", "definicion": "No ingresar al LMS virtual durante 20 días consecutivos o faltar a 3 citaciones continuas sin excusa."},
+            {"numeral": "3", "definicion": "No presentar planeación de etapa productiva o no tramitar reintegro 3 días antes de vencer aplazamiento."}
+          ]
+        }
+      ]
+    },
+    {
+      "capitulo": "CAPÍTULO V",
+      "nombre": "RÉGIMEN DE FALTAS, MEDIDAS FORMATIVAS Y SANCIONES",
+      "articulos": [
+        {
+          "articulo": "Artículo 41 y 42",
+          "nombre": "Clasificación de Faltas",
+          "contenido": "Las faltas académicas y disciplinarias se califican en Leves, Graves y Gravísimas según el daño, reincidencia y afectación."
+        },
+        {
+          "articulo": "Artículo 46",
+          "nombre": "Medidas Formativas",
+          "contenido": "Llamados de atención por escrito (máximo 2) y Planes de mejoramiento académico (hasta 20 días calendario) o disciplinario."
+        },
+        {
+          "articulo": "Artículo 47",
+          "nombre": "Medidas Sancionatorias",
+          "contenido": "Condicionamiento de matrícula (pérdida de incentivos) y Cancelación de matrícula (retiro definitivo e inhabilitación por 6 meses para reingresar)."
+        },
+        {
+          "articulo": "Artículo 48 a 51",
+          "nombre": "Comité de Evaluación y Debido Proceso",
+          "contenido": "Comité interviene con quórum (1/2 + 1), garantías de descargos, citación motivada, notificación y recursos de reposición y apelación."
+        }
+      ]
+    }
+  ]
+}

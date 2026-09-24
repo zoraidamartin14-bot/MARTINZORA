@@ -1,0 +1,6 @@
+{
+  "name": "Inducción SENA - Aprendices",
+  "description": "Plataforma de inducción institucional del SENA: conoce el SENA, regionales y reglamento del aprendiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
